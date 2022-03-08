@@ -1,7 +1,7 @@
 ### Hi! I'm George 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-doujaiji/)
-[![Portfolio Badge](https://img.shields.io/badge/George%20D-Portfolio-black&logo=https://github.com/GeorgeD88/GeorgeD88/blob/main/georged_glitch_logo.png)](https://georged88.github.io/GeorgeD-Portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/George%20D-Portfolio-black)](https://georged88.github.io/GeorgeD-Portfolio/)
 
 I'm a computer science student with a huge passion for software development and more than that. As someone with a true love for tech, I've explored beyond code and have become proficient with other skills such as the command line, Linux, servers/SSH, exploring DevOps, and more.
 
