@@ -7,6 +7,6 @@ I'm a computer science student with a huge passion for software development and 
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently looking for internships for the 2022 Summer
-- 🌱 I’ve been working on a music organiztion program in Python for a DJ
+- 🌱 I’ve been working on a music organization program in Python for a DJ
 - 📫 Reach me at [GeorgeDoujaiji88@gmail.com](mailto:GeorgeDoujaiji88@gmail.com) or my website [George-D](https://georged88.github.io/GeorgeD-Portfolio/)
 - ⚡ Fun fact: I grew up in Saudi Arabia, moved 3 times, and I've been to 14 countries.
