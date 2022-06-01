@@ -7,6 +7,6 @@ I'm a computer science student with a huge passion for software development and 
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently looking for internships for the 2022 Summer
-- 🌱 I'm working on the solver bot component of my Minsweeper project
+- 🌱 I'm working on the solver bot component of my Minsweeper project and optimizing past projects with memoization
 - 📫 Reach me at [GeorgeDoujaiji88@gmail.com](mailto:GeorgeDoujaiji88@gmail.com) or my website [George-D](https://georged88.github.io/GeorgeD-Portfolio/)
 - ⚡ Fun fact: I grew up in Saudi Arabia, moved 3 times, and I've been to 14 countries.
