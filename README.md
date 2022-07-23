@@ -7,6 +7,6 @@ I'm a computer science student with a huge passion for software development and 
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently looking for internships and preparing for interviews
-- 🌱 I'm working on the solver bot component of my Minsweeper project, optimizing past projects with memoization, and learning how to implement as well as visualize pathfinding algorithms.
+- 🌱 I just finished up my biggest project, a [Minesweeper solver/bot](https://github.com/GeorgeD88/Minesweeper-Solver), and I'm gonna move on to some big project plans involving the Spotify API.
 - 📫 Reach me at [GeorgeDoujaiji88@gmail.com](mailto:GeorgeDoujaiji88@gmail.com) or my website [George-D](https://georged88.github.io/GeorgeD-Portfolio/)
 - ⚡ Fun fact: I grew up in Saudi Arabia, moved 3 times, and I've been to 14 countries.
