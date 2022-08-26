@@ -1,7 +1,7 @@
 ### Hi! I'm George 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-doujaiji/)
-[![Portfolio Badge](https://img.shields.io/badge/George%20D-Portfolio-darkred)](https://georged88.github.io/GeorgeD-Portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/George%20D-Portfolio-darkred)](https://georged.me)
 
 I'm a computer science student with a huge genuine passion for software development and more than that. As someone with a true love for tech, I continuously push myself to learn more about programming and explore many other aspects of the tech field.
 
