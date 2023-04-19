@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-doujaiji/)
 [![Portfolio Badge](https://img.shields.io/badge/George%20D-Portfolio-darkred)](https://georged.me)
 
-I'm a computer science student with a huge genuine passion for software development and more than that. As someone with a true love for tech, I continuously push myself to learn more about programming and explore many other aspects of the tech field.
+I'm a computer science student with a huge genuine passion for software development and more than that. As someone with a true love for tech, I continuously push myself to learn more about programming and explore many other aspects of the tech field. My biggest fascination is artifical intelligence, which I hope to specialize in in the future.
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently looking for temporary opportunities where I could learn a lot working with teams on big projects
