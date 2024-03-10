@@ -8,5 +8,5 @@ I'm a computer science student with a huge genuine passion for software developm
 - 😄 Pronouns: he/him
 - 🔭 I’m currently looking for Summer 2024 internships in Software Engineering, Machine Learning, or Data Science.<!-- - 🌱 I'm currently completing Machine Learning and Deep Learning courses, and practicing training my own machine learning models. -->
 - 📫 Reach me at [GeorgeDoujaiji88@gmail.com](mailto:GeorgeDoujaiji88@gmail.com) or my website [georged.me](https://georged.me/)
-- ⚡ Fun fact: I grew up in Saudi Arabia, moved 3 times, and I've been to 14 countries.
 - 🗣️ I am fluent in English and Arabic (speaking, reading, and writing), and I'm currently learning French at a novice level.
+- ⚡ Fun fact: I grew up in Saudi Arabia, moved 3 times, and I've been to 14 countries.
